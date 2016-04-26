@@ -1,3 +1,4 @@
+echo "Done">>list.txt
 
 
 cd ~/Desktop
