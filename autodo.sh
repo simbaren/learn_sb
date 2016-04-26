@@ -1,4 +1,2 @@
-
-
-cd ~/Desktop
+p
 ls>>list.txt
